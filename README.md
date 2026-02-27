@@ -58,13 +58,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,tailwind,html,css,git,github,vscode&perline=6" />
 </p>
 
-<p align="center">
-  <!-- Fancy Badges -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+ 
 
 
 ---
