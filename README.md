@@ -66,17 +66,7 @@
  
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Stats
  
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ahmed-Devx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Devx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="170"
-  />
-</p>
-
+ 
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Ahmed-Devx&theme=tokyonight&hide_border=true" 
