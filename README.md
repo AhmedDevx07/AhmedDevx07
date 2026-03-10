@@ -1,4 +1,4 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=180&section=header&text=Muhammad%20Ahmed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=180&section=header&text=Muhammad%20Ahmed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -6,19 +6,13 @@
   </a>
 </p>
  
- 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
- 
   
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Devx&label=Profile%20views&color=667EEA&style=flat" alt="Ahmed-Devx" /> </p>
-
- 
-
- 
  
 - 🚀 **Full Stack Developer (MERN)**
   
@@ -27,45 +21,29 @@
 - ⚙️ Passionate about performance, accessibility & best practice  
 - ⚡ Coffee + late-night coding = productivity mode  
 - 📫 How to reach me **ahmedoffice69@gmail.com**
- 
 
- 
-
-  
- <h2 style="text-align: center;">
+<h2 style="text-align: center;">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
   Connect With Me
 </h2>
 
- <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<p align="center">
+   
   <a href="https://www.linkedin.com/in/ahmed-devx/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-   
 </p>
 
-
- 
- 
-
- ---
+---
 
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,firebase,supabase,git,github,react,vite,vscode,netlify,figma,redux&perline=8" />
 </p>
-
  
-
-
 ---
-
  
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Stats
- 
  
 <p align="center">
   <img 
@@ -73,16 +51,12 @@
     height="170"
   />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-Devx&theme=tokyonight"/>
+</p>
  
- 
-
 ---
-
  
-
-  
-	
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
