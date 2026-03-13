@@ -44,7 +44,11 @@
 ---
  
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Stats
- 
+
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Devx&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Ahmed-Devx&theme=tokyonight&hide_border=true" 
