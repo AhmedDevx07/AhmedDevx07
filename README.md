@@ -50,10 +50,66 @@
 <p align="center">
  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,nodejs,express,mongodb,firebase,supabase,redux,git,github,githubactions,docker,aws,python,vite,vscode,figma,vercel&perline=12" />
 </p>
- 
+
 ---
- 
- 
+
+## 💜 Featured Projects
+
+<p align="center">
+  <i>Some of my best work in Full-Stack Development, AI Integration, and Modern Web Applications.</i>
+</p>
+
+### 🛠️ MaintainIQ — AI-Powered Maintenance Platform
+
+An AI-powered QR asset maintenance system built during the SMIT Final Hackathon. Features QR-based issue reporting, Gemini AI triage, role-based dashboards, and complete asset maintenance history.
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+</p>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-667EEA?style=for-the-badge&logo=vercel&logoColor=white)](https://smit-final-hackathon-gamma.vercel.app/login)
+[![Source Code](https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedDevx07/SMIT-Final-Hackathon)
+
+---
+
+### 🤖 AI-Powered Resume Analyzer
+
+A full-stack AI application that analyzes PDF resumes, generates ATS scores, identifies strengths and weaknesses, suggests improved bullet points, and tracks resume performance through an interactive dashboard.
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-667EEA?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-powered-resume-analyzer-pied.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedDevx07/AI-Powered-Resume-Analyzer)
+
+---
+
+### 🛒 NEXUS — Multi-Vendor E-Commerce Platform
+
+A full-stack marketplace with dedicated buyer, vendor, and admin portals. Includes product and inventory management, cart and checkout, order tracking, role-based access control, and Cloudinary-powered image management.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+</p>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-667EEA?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-multi-vendor-e-com.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedDevx07/Full-Stack-Multi-Vendor-E-Commerce)
+
+---
+
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Stats
 
  <p align="center">
@@ -73,5 +129,7 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedDevx07&theme=tokyo-night"/>
 </p>
+
+---
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=100&section=footer" width="100%"/>
