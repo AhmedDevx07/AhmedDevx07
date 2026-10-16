@@ -39,10 +39,7 @@
 <a href="https://github.com/AhmedDevx07" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-AhmedDevx-667EEA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
-
-
 
 ---
 
@@ -54,10 +51,6 @@
 ---
 
 ## 💜 Featured Projects
-
-<p align="center">
-  <i>Some of my best work in Full-Stack Development, AI Integration, and Modern Web Applications.</i>
-</p>
 
 <div align="center">
  
