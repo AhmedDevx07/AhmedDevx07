@@ -59,6 +59,8 @@
   <i>Some of my best work in Full-Stack Development, AI Integration, and Modern Web Applications.</i>
 </p>
 
+<div align="center">
+ 
 ### 🛠️ MaintainIQ — AI-Powered Maintenance Platform
 
 An AI-powered QR asset maintenance system built during the SMIT Final Hackathon. Features QR-based issue reporting, Gemini AI triage, role-based dashboards, and complete asset maintenance history.
@@ -107,6 +109,8 @@ A full-stack marketplace with dedicated buyer, vendor, and admin portals. Includ
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-667EEA?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-multi-vendor-e-com.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedDevx07/Full-Stack-Multi-Vendor-E-Commerce)
+
+</div>
 
 ---
 
