@@ -32,14 +32,13 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://ahmeddevx07.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+
 <a href="https://www.instagram.com/ahmeddevx07" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-<a href="https://github.com/AhmedDevx07" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-AhmedDevx-667EEA?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
 ---
 
