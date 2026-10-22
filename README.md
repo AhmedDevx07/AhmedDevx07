@@ -13,13 +13,14 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
 </a>
  
-- 🚀 Full-Stack MERN Developer focused on building production-ready web applications
-  
-- ⚡ Specialized in React.js, Next.js, Node.js, Express.js & MongoDB
-- 🎯 Strong focus on clean architecture, performance & scalable code
-- 🎓 Completed Full-Stack Development program at SMIT (May 2026)
-- 💡 Started coding journey in early 2025 through self-learning
-- 🤝 Available for freelance projects & full-time opportunities 
+- 🚀 Full-Stack Developer focused on building responsive and functional web applications.
+
+- ⚡ Working with the MERN stack, Next.js and RESTful APIs.
+- 🤖 Building AI-powered applications using the Google Gemini API.
+- ☁️ Hands-on experience with AWS EC2, Docker, and GitHub Actions CI/CD.
+- 🎓 Completed the Full-Stack Development program at Saylani Mass IT Training (SMIT) in 2026.
+- 💡 Started my web development journey in late 2024 through self-learning.
+- 🎯 Focused on clean code, practical problem-solving, and reliable application deployment.
 
 <h2 style="text-align: center;">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
@@ -63,6 +64,8 @@ An AI-powered QR asset maintenance system built during the SMIT Final Hackathon.
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
 </p>
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-667EEA?style=for-the-badge&logo=vercel&logoColor=white)](https://smit-final-hackathon-gamma.vercel.app/login)
